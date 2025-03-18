@@ -1,7 +1,7 @@
 # learning-data-science
 
 ## Progress Log
-- [x] Basic Python -> Continue Numpy Array 11:33 
+- [x] Basic Python -> Continue Array Generator 27:36 
 - [ ] Probability and Statistics
 - [ ] Exploratory Data Analysis
 - [ ] Data Preprocessing
